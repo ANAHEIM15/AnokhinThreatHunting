@@ -1,3 +1,10 @@
+---
+title: "Lab0"
+author: "Anokhin Ilya"
+format:
+  md:
+    output-file: "README.md"
+---
 # Lab0
 
 ## Цель работы
